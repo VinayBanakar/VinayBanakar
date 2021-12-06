@@ -1,7 +1,9 @@
+<!--
 ### Hi there 👋
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaybanakar)
+# Remove both?
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybanakar&layout=compact)
-
+-->
 <!--
 **VinayBanakar/VinayBanakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
